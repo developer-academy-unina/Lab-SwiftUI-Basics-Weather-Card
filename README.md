@@ -13,10 +13,10 @@
     <img src="https://img.shields.io/static/v1?label=Version&message=1.0.0&color=brightgreen" />
   </a>
   <a href="#" alt="XCode Version">
-    <img src="https://img.shields.io/static/v1?label=XCode%20Version&message=13.0&color=brightgreen&logo=xcode" />
+    <img src="https://img.shields.io/static/v1?label=XCode%20Version&message=16.0&color=brightgreen&logo=xcode" />
   </a>        
   <a href="#" alt="Swift Version">
-    <img src="https://img.shields.io/static/v1?label=Swift%20Version&message=13.0&color=brightgreen&logo=swift" />
+    <img src="https://img.shields.io/static/v1?label=Swift%20Version&message=6.0&color=brightgreen&logo=swift" />
   </a>
   <a href="#" alt="Framework used">
     <img src="https://img.shields.io/static/v1?label=Framework%20used&message=SwiftUI&color=brightgreen&logo=swift"
@@ -43,22 +43,14 @@
 
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
+This project is for you to challenge yourselves with interface creation using SwiftUI. Look at the ```Weather Card``` image below and recreate it on Xcode to reinforce your knowledge of layouts in SwiftUI.
 
 <summary>Screenshots</summary>
 <br>
 
-> **[?]**
-> Please provide your screenshots here.
-
-|                               Home Page                               |                               Login Page                               |
+|                             Weather Card                              |                            Xcode                            |
 | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
+| <img src="docs/images/WeatherCard.png" title="Weather Card" width="100%"> | <img src="docs/images/WeatherCardApp.png" title="Weather Card App" width="100%"> |
 
 <br />
 
@@ -69,20 +61,18 @@
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/developer-academy-unina/Activity-Template
+   git clone https://github.com/developer-academy-unina/Lab-SwiftUI-Basics-Weather-Card
    ```
 
 2. Open the ```.xcodeproj``` file
 
 ### How to
 
-1. Do Some...
+1. Create a new project on Xcode called ```WeatherCard```
 
-   ```sh
-   git clone https://github.com/developer-academy-unina/Activity-Template
-   ```
+2. Recreate the Weather Card (as shown in the picture above) in the ```ContentView```
 
-2. ...
+3. Check if your Weather Card is similar to this project's
 
 <br />
 
@@ -111,7 +101,7 @@ Reach out to the maintainer at one of the following places:
 
 ## Authors & contributors
 
-The original setup of this repository is by [...](https://github.com/...).
+The original setup of this repository is by [Luca Palmese](https://github.com/pal-luke).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/developer-academy-unina/Activity-Template/contributors).
 

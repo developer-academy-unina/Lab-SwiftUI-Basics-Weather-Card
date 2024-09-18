@@ -1,7 +1,7 @@
 ## CHANGELOG
 
-## Version 1.0.0 (aaaa-mm-dd)
+## Version 1.0.0 (2024-09-18)
 
 First release:
 
-* Activity-Template - <Comment>
+* Lab SwiftUI Basics Weather Card
