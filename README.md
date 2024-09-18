@@ -103,7 +103,7 @@ Reach out to the maintainer at one of the following places:
 
 The original setup of this repository is by [Luca Palmese](https://github.com/pal-luke).
 
-For a full list of all authors and contributors, see [the contributors page](https://github.com/developer-academy-unina/Activity-Template/contributors).
+For a full list of all authors and contributors, see [the contributors page](https://github.com/developer-academy-unina/Lab-SwiftUI-Basics-Weather-Card/contributors).
 
 <br />
 
