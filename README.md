@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>Session</h3>
-  <h1>Activity-Template</h1>
+  <h3>Lab</h3>
+  <h1>SwiftUI Basics: Weather Card</h1>
   <br />
   <a href="https://github.com/developer-academy-unina/Activity-Template/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   ·
