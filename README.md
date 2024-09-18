@@ -2,9 +2,9 @@
   <h3>Lab</h3>
   <h1>SwiftUI Basics: Weather Card</h1>
   <br />
-  <a href="https://github.com/developer-academy-unina/Activity-Template/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  <a href="https://github.com/developer-academy-unina/Lab-SwiftUI-Basics-Weather-Card/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   ·
-  <a href="https://github.com/developer-academy-unina/Activity-Template/discussions">Ask a Question</a>
+  <a href="https://github.com/developer-academy-unina/Lab-SwiftUI-Basics-Weather-Card/discussions">Ask a Question</a>
   
 </div>
   <br />
@@ -78,7 +78,7 @@ This project is for you to challenge yourselves with interface creation using Sw
 
 ## Issues and Discussions
 
-You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? Take a look at [GitHub Discussions](https://github.com/developer-academy-unina/Activity-Template/discussions) to see if it's already being discussed. You can help us by [submitting an issue on GitHub](https://github.com/developer-academy-unina/Activity-Template/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
+You've found a bug in the source code, a mistake in the documentation or maybe you'd like a new feature? Take a look at [GitHub Discussions](https://github.com/developer-academy-unina/Lab-SwiftUI-Basics-Weather-Card/discussions) to see if it's already being discussed. You can help us by [submitting an issue on GitHub](https://github.com/developer-academy-unina/Lab-SwiftUI-Basics-Weather-Card/issues). Before you create an issue, make sure to search the issue archive -- your issue may have already been addressed!
 
 Please try to create bug reports that are:
 
@@ -93,8 +93,8 @@ Please try to create bug reports that are:
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Discussions](https://github.com/developer-academy-unina/Activity-Template/discussions)
-- [GitHub issues](https://github.com/developer-academy-unina/Activity-Template/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
+- [GitHub Discussions](https://github.com/developer-academy-unina/Lab-SwiftUI-Basics-Weather-Card/discussions)
+- [GitHub issues](https://github.com/developer-academy-unina/Lab-SwiftUI-Basics-Weather-Card/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
 - Contact a Mentor for any other help
 
 <br />
